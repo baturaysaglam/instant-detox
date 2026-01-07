@@ -1,7 +1,7 @@
 # Test-Time Detoxification without Training or Learning Anything
 
 <p align="center">
-  <img src="figs/tide.jpg" width="75%">
+  <img src="figs/tide-anonymized.jpeg" width="75%">
 </p>
 
 This repository contains the code for the paper *"Test-Time Detoxification without Training or Learning Anything."*
