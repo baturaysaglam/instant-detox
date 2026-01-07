@@ -1,7 +1,7 @@
 # Test-Time Detoxification without Training or Learning Anything
 
 <p align="center">
-  <img src="figs/tide.jpg" width="80%">
+  <img src="figs/tide.jpg" width="75%">
 </p>
 
 This repository contains the code for the paper *"Test-Time Detoxification without Training or Learning Anything."*
@@ -11,7 +11,7 @@ We introduce **Test-Time Iterative Detoxification via Embeddings (TIDE)**, a met
 ### Algorithm in Action — **Warning:** Inappropriate and offensive language
 
 <p align="center">
-  <img src="figs/example_optimization.png" width="95%">
+  <img src="figs/example_optimization.png" width="60%">
 </p>
 
 ## Repository Structure
